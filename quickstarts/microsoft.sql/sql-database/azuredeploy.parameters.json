@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serverName": {
-      "value": "GEN-UNIQUE"
+      "value": "GENSQLDIVYANSHUIABC"
     },
     "administratorLogin": {
-      "value": "GEN-UNIQUE"
+      "value": anikabc"
     },
     "administratorLoginPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "today@12"
     }
   }
 }
